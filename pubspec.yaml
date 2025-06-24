@@ -1,0 +1,30 @@
+name: plant_guard
+description: App mobile de diagnostic phytosanitaire intelligent.
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
+  flutter_hooks: ^0.20.0
+  image_picker: ^1.0.4
+  tflite_flutter: ^0.11.0
+  path_provider: ^2.1.1
+  path: ^1.8.3
+  sqflite: ^2.3.0
+  permission_handler: ^11.0.1
+  image: ^4.5.4
+  easy_localization: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/models/plant_disease_model.tflite
+    - assets/models/tomato_disease_model.tflite
+    - assets/models/labels.txt
+    - assets/language/en.json
+    - assets/language/fr.json
+

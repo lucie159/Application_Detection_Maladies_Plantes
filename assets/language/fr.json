@@ -1,0 +1,131 @@
+{
+  "app_name": "PlantGuard",
+  "home_title": "Bienvenue sur PlantGuard",
+  "home_description": "Analysez vos plantes grâce à l'intelligence artificielle en quelques secondes.",
+  "start_button": "Commencer",
+  "scan_button": "Analyser une plante",
+
+  "camera_title": "Capture d'image",
+  "loading": "Chargement...",
+
+  "disease_detected": "Maladie détectée",
+  "confidence_label": "Confiance",
+  "predicted_class": "Classe prédite",
+  "recommendations": "Recommandations",
+
+
+  "settings_title": "Paramètres",
+
+  "language_title": "Langue",
+  "select_language": "Choisir la langue",
+  "french": "Français",
+  "english": "Anglais",
+  "save": "Sauvegarder",
+  "cancel": "Annuler",
+
+  "feature_speed": "Analyse rapide",
+  "feature_speed_sub": "Résultats instantanés",
+  "feature_precision": "IA précise",
+  "feature_precision_sub": "Diagnostic fiable",
+  "feature_history": "Historique",
+  "feature_history_sub": "Suivi des analyses",
+  "feature_tips": "Conseils",
+  "feature_tips_sub": "Recommandations utiles",
+
+  "help_title": "Comment ça marche ?",
+  "help_text": "Prenez une photo de votre plante, notre IA analysera automatiquement l'image et vous fournira un diagnostic détaillé avec des recommandations.",
+
+  "about_title": "À propos",
+  "about_text": "PlantGuard est une application de diagnostic phytosanitaire utilisant l'intelligence artificielle pour identifier les maladies des plantes.",
+  "version": "Version 1.0.0",
+  "footer": "Pour l'agriculture moderne",
+
+  "language_saved": "Paramètres de langue sauvegardés",
+
+
+  "menu_history": "Historique",
+  "menu_history_sub": "Voir les diagnostics précédents",
+  "menu_language": "Langue",
+  "menu_language_sub": "Changer la langue de l'application",
+  "menu_about": "À propos",
+  "menu_about_sub": "Informations sur l'application",
+  "about_description": "PlantGuard est conçu pour vous aider à garder vos plantes en bonne santé.",
+  "close": "Fermer",
+  "help_description": "Prenez une photo de votre plante, notre IA analysera automatiquement l'image et vous fournira un diagnostic détaillé avec des recommandations.",
+
+
+  "camera_loading": "Traitement en cours...",
+  "camera_instruction_title": "Analysez votre plante",
+  "camera_instruction_subtitle": "Prenez une photo claire de votre plante\npour obtenir un diagnostic précis",
+  "camera_take_photo": "Prendre une photo",
+  "camera_use_camera": "Utilisez l'appareil photo",
+  "camera_choose_image": "Choisir une image",
+  "camera_from_gallery": "Sélectionnez depuis la galerie",
+  "camera_tips_title": "Conseils pour une meilleure analyse",
+  "camera_tips": "• Assurez-vous d'un bon éclairage\n• Cadrez bien les feuilles affectées\n• Évitez les photos floues",
+  "camera_preview": "Prévisualisation de l'image",
+  "camera_analyse": "Analyser l'image",
+  "camera_retake": "Reprendre",
+  "camera_other": "Autre image",
+  "camera_error_pick": "Erreur lors de la prise de photo",
+  "camera_error_gallery": "Erreur lors de la sélection d'image",
+
+
+  "diagnostic_title": "Diagnostic Phytosanitaire",
+  "diagnostic_loading": "Analyse de votre plante en cours...",
+  "diagnostic_result_title": "Résultat de l'analyse",
+  "diagnostic_status_healthy": "Plante en bonne santé",
+  "diagnostic_status_disease": "Maladie détectée",
+  "diagnostic_status_error": "Erreur lors de l'analyse",
+  "diagnostic_details_title": "Détails du diagnostic",
+  "diagnostic_class_label": "Classe détectée",
+  "diagnostic_confidence_label": "Niveau de confiance",
+  "diagnostic_recommendations_title": "Recommandations",
+  "diagnostic_recommendations_healthy": "Excellente nouvelle ! Votre plante semble en parfaite santé. Continuez vos soins actuels et maintenez un environnement optimal.",
+  "diagnostic_recommendations_disease": "Nous avons détecté des signes de maladie. Consultez un spécialiste en jardinage ou utilisez des traitements appropriés. Isolez la plante si nécessaire.",
+  "diagnostic_recommendations_loading": "Analyse en cours... Les recommandations seront disponibles une fois le diagnostic terminé.",
+  "diagnostic_back_button": "Retour",
+
+  "select_language_title": "Sélectionnez votre langue",
+  "select_language_subtitle": "Choisissez la langue de l'application",
+  "language": "Langue",
+  "language_changed_to": "Langue changée en {}",
+  "current_language": "Langue actuelle",
+  "more_languages_coming": "Plus de langues seront ajoutées prochainement",
+  "language_settings_saved": "Paramètres de langue sauvegardés",
+
+  "history_title": "Historique",
+  "history_stat_total": "Total",
+  "history_stat_healthy": "Saines",
+  "history_stat_diseased": "Malades",
+  "history_empty_title": "Aucun diagnostic",
+  "history_empty_subtitle": "Aucun historique de plante n'a encore été enregistré",
+  "history_empty_action": "Commencer l’analyse",
+  "history_no_results": "Aucun résultat pour ce filtre",
+  "history_detail_status": "État",
+  "history_detail_confidence": "Confiance",
+  "history_detail_date": "Date",
+  "history_detail_close": "Fermer",
+  "history_time_minutes": "Il y a {{}} minutes",
+  "history_time_hours": "Il y a {{}} heures",
+  "history_time_days": "Il y a {{}} jours",
+  "healthy": "Saine",
+  "diseased": "Malade",
+  "all": "Tous",
+  "healthy_filter": "Saines",
+  "diseased_filter": "Malades",
+
+
+
+  "history_detail_title": "Détail du diagnostic",
+  "diagnostic_date_label": "Date du diagnostic",
+  "diagnostic_status_label": "Diagnostic",
+  "diagnostic_recommendation_title": "Recommandation",
+  "diagnostic_recommendation_healthy": "Aucune anomalie détectée. Continuez l’entretien normal de la plante.",
+  "diagnostic_recommendation_disease": "Une maladie a été détectée. Consultez un expert agricole ou appliquez les traitements recommandés."
+
+}
+
+
+
+
