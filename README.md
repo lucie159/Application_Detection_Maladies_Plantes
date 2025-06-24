@@ -6,12 +6,12 @@ PlantGuard est une application mobile développée en **Flutter**, embarquant un
 
 -  Détection en temps réel de maladies de la tomate à partir d’une simple photo
 -  6 classes reconnues :
-  - Bacterial Spot
-  - Early Blight
-  - Healthy
-  - Septorial Leaf Spot
-  - Leaf Mold
-  - Yellow Leaf Curl Virus
+    - Bacterial Spot
+    - Early Blight
+    - Healthy
+    - Septorial Leaf Spot
+    - Leaf Mold
+    - Yellow Leaf Curl Virus
 -  Modèle CNN converti en `.tflite` pour usage mobile
 -  Interface Flutter multilingue (EN/FR)
 -  Recommandations phytosanitaires pour chaque maladie
